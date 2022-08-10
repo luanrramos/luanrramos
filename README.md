@@ -1,9 +1,8 @@
-Olá! Eu sou o Luan Ramos! 👋!
-
-
-💻 Hoje estudo Ciências da Computação na Universidade Estadual da Paraíba - UEPB
+Olá! Eu sou o Luan Ramos 👋
 
 👨‍💻 revisando meus conhecimentos prévios em HTML, CSS, JavaScript e seguindo o programa de aprendizado da Rocketseat. 
+
+💻 Hoje estudo Ciências da Computação na Universidade Estadual da Paraíba - UEPB
 
 💬 Contate-me no e-mail: luan.ramos@aluno.uepb.edu.br
 
