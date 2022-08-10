@@ -1,6 +1,6 @@
 Olá! Eu sou o Luan Ramos 👋
 
-👨‍💻 revisando meus conhecimentos prévios em HTML, CSS, JavaScript e seguindo o programa de aprendizado da Rocketseat. 
+👨‍💻 Revisando meus conhecimentos prévios em HTML, CSS, JavaScript e seguindo o programa de aprendizado da Rocketseat. 
 
 💻 Hoje estudo Ciências da Computação na Universidade Estadual da Paraíba - UEPB
 
