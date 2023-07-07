@@ -1,6 +1,6 @@
 Olá! Eu sou o Luan Ramos 👋
 
-👨‍💻 Revisando meus conhecimentos prévios em HTML, CSS, JavaScript
+👨‍💻 Revisando meus conhecimentos prévios no universo Back-end
 
 💻 Graduando em Ciências da Computação
 
