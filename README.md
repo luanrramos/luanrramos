@@ -1,6 +1,6 @@
 👨‍💻 Revisando meus conhecimentos prévios no universo Back-end
 
-💻 Graduando em Ciências da Computação
+💻 Graduando em Ciências da Computação na Universidade Estadual da Paraíba - UEPB
 
 
 
