@@ -1,4 +1,5 @@
 👨‍💻 Revisando meus conhecimentos prévios no universo Back-end
+- Atualmente estudando Java
 
 💻 Graduando em Ciências da Computação na Universidade Estadual da Paraíba - UEPB
 
