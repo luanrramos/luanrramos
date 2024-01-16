@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-<h1>Eu me chamo Luan</h1>
-<h1>Desenvolvedor WEB & UX/UI Designer</h1>
+<h1>Eu me chamo Luan,
+<br>Desenvolvedor WEB & UX/UI Designer</h1>
 <li>👨‍🎓 Formando em Análise e Desenvolvimento de Sistemas</li>
 <li>👩🏻‍💻 Especializado em criar interfaces interativas, responsivas e estilizadas.</li>
 <li>🏋️‍♂️ Apaixonado por musculação</li>
