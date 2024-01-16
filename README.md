@@ -6,7 +6,7 @@
 <li>👩🏻‍💻 Especializado em criar interfaces interativas, responsivas e estilizadas.</li>
 <li>🏋️‍♂️ Apaixonado por musculação</li>
 
-<p>Seria um prazer participar de novos projetos no momento. Entre em contato comigo e marcamos uma conversa. 👋</p>
+<h4>Seria um prazer participar de novos projetos no momento. Entre em contato comigo e marcamos uma conversa. 👋</h4>
 
 <h2 align="left">📚 Conhecimento nas tecnologias e ferramentas</h2>
 <div align="left">
