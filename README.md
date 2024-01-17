@@ -58,11 +58,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrramos&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&langs_count=5" alt="" height="194">
         
 </div>
-
-<br>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=luanrramos&color=red&style=for-the-badge)
-
-</div>
