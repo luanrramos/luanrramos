@@ -1,60 +1,65 @@
-### Hello World 👋
+<header>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+    <a href="https://git.io/typing-svg"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO+WORLD!+my+name+is+Luan+Ramos;I&#39;m+20+years+old;I&#39;m+from+Brazil,PB;I+study+Analysis+and+Systems+Development+at+Uninter;Be+Welcome!+:%29" alt="Typing SVG"> 
+    </a>
+</header>
 
-<h1>Eu me chamo Luan,
-<br>Desenvolvedor WEB & UX/UI Designer</h1>
-<li>👨‍🎓 Formando em Análise e Desenvolvimento de Sistemas</li>
-<li>👩🏻‍💻 Especializado em criar interfaces interativas, responsivas e estilizadas.</li>
-<li>🏋️‍♂️ Apaixonado por musculação</li>
-
-<h4>Seria um prazer participar de novos projetos no momento. Entre em contato comigo e marcamos uma conversa. 👋</h4>
-
-<h2 align="left">📚 Conhecimento nas tecnologias e ferramentas</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="47" alt="typescript logo"  /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo" -->
-</div>
-
-<h2 align="left">📩 Contato</h2>
-<div align="left">
-  <a href="luanrnr1227@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=luanrnr1227@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5583982178199&text=Ol%C3%A1%20Mateus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=(83) 982178199&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="linkedin.com/in/luanrramos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://luanrramos.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?logo=flickr&style=for-the-badge" height="30" alt="Portfolio Luan Ramos">
-  </a>
-</div>
-
-</div>
-
-   <h2>📚 Github stats</h2>
-   
-   <div align="center">
-  
-   [![GitHub Streak](https://streak-stats.demolab.com?user=luanrramos&theme=sea&date_format=n%2Fj%5B%2FY%5D&background=000000&border=A80101&fire=A80101&ring=A80101&stroke=A80101)](https://git.io/streak-stats)
-  
-  </div>
-
-   <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=luanrramos&show_icons=true&cache_seconds=86400&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&hide=issues" height="180" alt=""/>
-    </div>
-    
 <br>
-    
+
+<main>
+<h2>
+📊 GitHub Stats :
+</h2>
 <div align="center">
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanrramos&layout=compact&?exclude_repo=Pokedex,Memstuff,Calculator-in-Flutter&theme=chartreuse-dark&title_color=FFFFFF&text_color=FFFFFF&icon_color=A80101&bg_color=000000&border_color=A80101&langs_count=5" alt="" height="194">
-        
+    <a href="https://github.com/luanrramos">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanrramos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    </a>
 </div>
+
+<br>
+
+<h2>
+💻 Languages | Tools :
+</h2>
+<p> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode"/>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</p>
+
+<br>
+
+<h2>
+🌐 Contact :
+</h2>
+<p>
+    <a href="https://www.instagram.com/luanrnuness/" target="_blank"> 
+        <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://https://www.instagram.com/luanrnuness/" alt="Instagram Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/luanrramos/" target="_blank"> 
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luanrramos" alt="Linkedin Badge">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5583982178199&text=Ol%C3%A1%20Luan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=(83) 982178199&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" />
+  </a>
+</p>
+
+<br>
+
+<h2>
+🔗 Portfolio :
+</h2>
+<div>
+    <a href="https://luanrramos.github.io/portfolio/" target="_blank"> 
+        <img src="https://img.shields.io/badge/-Portfolio-black?logo=flickr&style=for-the-badge" alt="Portfólio Luan Ramos">
+    </a>
+</div>
+</main>
+
+<br>
+
+<footer>
+<p>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</p>
+</footer>
