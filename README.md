@@ -1,7 +1,7 @@
 <header>
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
     <a href="https://git.io/typing-svg"> 
-        <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO+WORLD+Eu+me+chamo+Luan+Ramos;Formando+em+Análise+e+Desenvolvimento+de+Sistemas;Especializado+em+criar+interfaces+interativas+e+estilizadas;Seja+Bem-Vindo(a)!+:%29" alt="Typing SVG"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO+WORLD👋+Eu+me+chamo+Luan+Ramos;Formando+em+Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Front-End;Especialista+em+UX/UI+Design;Seja+Bem-Vindo(a)!+:%29" alt="Typing SVG"> 
     </a>
 </header>
 
