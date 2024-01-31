@@ -1,7 +1,7 @@
 <header>
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
     <a href="https://git.io/typing-svg"> 
-        <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO+WORLD!+my+name+is+Luan+Ramos;I&#39;m+20+years+old;I&#39;m+from+Brazil,PB;I+study+Analysis+and+Systems+Development+at+Uninter;Be+Welcome!+:%29" alt="Typing SVG"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=HELLO+WORLD!+my+name+is+Luan+Ramos;I&#39;m+20+years+old;I&#39;m+from+Brazil, PB;I+study+Analysis+and+Systems+Development+at+Uninter;Be+Welcome!+:%29" alt="Typing SVG"> 
     </a>
 </header>
 
@@ -40,7 +40,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luanrramos" alt="Linkedin Badge">
     </a>
     <a href="https://api.whatsapp.com/send?phone=5583982178199&text=Ol%C3%A1%20Luan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=(83) 982178199&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" />
+    <img src="https://img.shields.io/static/v1?message=(83) 982178199&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="whatsapp logo" />
   </a>
 </p>
 
