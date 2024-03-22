@@ -37,8 +37,8 @@
     <a href="https://www.linkedin.com/in/luanrramos/" target="_blank"> 
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/luanrramos" alt="Linkedin Badge">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=WhatsApp&text=Ol%C3%A1%20Luan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=(83) 982178199&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="whatsapp logo" />
+    <a href="https://api.whatsapp.com/send?phone=83982178199&text=Ol%C3%A1%20Luan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="whatsapp logo" />
   </a>
 </p>
 
