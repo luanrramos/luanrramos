@@ -44,7 +44,7 @@
         <img style="width: 80px;" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp" alt="Linkedin Badge">
     </a>
 <a href="mailto:luanrnr1227@gmail.com" target="_blank"> 
-        <img style="width: 70px;" src="https://img.shields.io/badge/GMAIL-FF2100" alt="Gmail">
+        <img style="width: 65px;" src="https://img.shields.io/badge/Gmail-FF2100" alt="Gmail">
     </a>
        </div>
 <br>
