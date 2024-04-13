@@ -1,4 +1,4 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Luan%20Ramos&fontSize=70&fontAlignY=35&desc=Front-end%20Developer%20&%20UI%20Designer&descAlignY=50' />
+<img src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Luan%20Ramos&fontSize=70&fontAlignY=35&desc=Front-end%20Developer%20and%20UI%20Designer&descAlignY=50' />
 
 Olá, me chamo Luan Ramos, um desenvolvedor Front-end e Designer profissional com 2 anos de aprendizado e experiência em projetos freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, perfomance otimizada e usabilidade excepcional de aplicações web em larga escala.
 
