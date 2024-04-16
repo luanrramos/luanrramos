@@ -15,7 +15,6 @@ Conceitos Front-end que utilizo diariamente:
 
 Tecnologias Front-end que sempre utilizo em meus projetos:
 
-- ReactJS
 - HTML/CSS/JavaScript
 - SASS
 - TailwindCSS
