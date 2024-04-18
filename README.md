@@ -2,6 +2,10 @@
 
 Olá, me chamo Luan Ramos, um desenvolvedor Front-end criativo com 1 ano de aprendizado e experiência em projetos freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, perfomance otimizada e usabilidade excepcional de aplicações web em larga escala.
 
+
+
+
+
 Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me impulsionam a entregar soluções inovadoras que superam as expectativas do cliente. Estou ansioso para colaborar com outros profissionais e assumir projetos desafiadores que vão além dos limites da tecnologia.
 
 Conceitos Front-end que utilizo diariamente:
