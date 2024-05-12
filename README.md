@@ -19,11 +19,11 @@ Tecnologias Front-end que sempre utilizo em meus projetos:
 - HTML
 - CSS
 - JavaScript
-- React (router, componentes, hooks)
+- React (router, components, hooks)
 - GSAP
 - SASS/LESS/CSS-in-JS
 - Tailwind
-- Bootstrap
+- Figma
 
 Todos os meus projetos estão disponíveis em [https://luanrramos.github.io/portfolio/](https://luanrramos.github.io/portfolio/)
 
