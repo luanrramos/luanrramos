@@ -16,12 +16,14 @@ Conceitos Front-end que utilizo diariamente:
 
 Tecnologias Front-end que sempre utilizo em meus projetos:
 
-- HTML/CSS/JavaScript
-- SASS
-- TailwindCSS
+- HTML
+- CSS
+- JavaScript
+- React (router, componentes, hooks)
+- GSAP
+- SASS/LESS/CSS-in-JS
+- Tailwind
 - Bootstrap
-- Sanity.io
-- Swiffy
 
 Todos os meus projetos estão disponíveis em [https://luanrramos.github.io/portfolio/](https://luanrramos.github.io/portfolio/)
 
