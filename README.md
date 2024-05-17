@@ -1,6 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Luan%20Ramos&fontSize=70&fontAlignY=35&desc=Front-end%20Developer%20and%20UI%20Designer&descAlignY=50' />
 
-Olá, me chamo Luan Ramos, um desenvolvedor Front-end criativo com 1 ano de aprendizado e experiência sólidas em projetos freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, perfomance otimizada e usabilidade excepcional de aplicações web em larga escala.
+Olá, me chamo Luan Ramos, um desenvolvedor Front-end criativo com 1 ano de aprendizado e experiência sólida em trabalhos freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, perfomance otimizada e usabilidade excepcional de aplicações web em larga escala.
 
 
 Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me impulsionam a entregar soluções inovadoras que superam as expectativas do cliente. Estou ansioso para colaborar com outros profissionais e assumir projetos desafiadores que vão além dos limites da tecnologia.
@@ -18,7 +18,7 @@ Tecnologias Front-end que sempre utilizo em meus projetos:
 
 - HTML
 - CSS
-- JavaScript
+- JavaScript/TypeScript
 - React (router, components, hooks)
 - GSAP
 - SASS/LESS/CSS-in-JS
@@ -27,4 +27,4 @@ Tecnologias Front-end que sempre utilizo em meus projetos:
 
 Todos os meus projetos estão disponíveis em [https://luanrramos.github.io/portfolio/](https://luanramos.com.br)
 
-Você pode me enviar um email luanrnr1227@gmail.com ou me chamar no [Linkedin](https://www.luanramos.com.br) 
+Você pode me enviar um email luanrnr1227@gmail.com ou me chamar no [Linkedin](https://www.linkedin.com/in/luanrramos/) 
