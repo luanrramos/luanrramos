@@ -19,7 +19,7 @@ Tecnologias Front-end que sempre utilizo em meus projetos:
 - HTML
 - CSS
 - JavaScript/TypeScript
-- React (router, components, hooks)
+- React (contextAPI, router, components, hooks)
 - GSAP
 - SASS/LESS/CSS-in-JS
 - Tailwind
