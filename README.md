@@ -25,6 +25,6 @@ Tecnologias Front-end que sempre utilizo em meus projetos:
 - Tailwind
 - Figma
 
-Todos os meus projetos estão disponíveis em [https://luanrramos.github.io/portfolio/](https://luanramos.com.br)
+Todos os meus projetos estão disponíveis em [https://luanramos.com.br](https://luanramos.com.br)
 
 Você pode me enviar um email luanrnr1227@gmail.com ou me chamar no [Linkedin](https://www.linkedin.com/in/luanrramos/) 
