@@ -8,7 +8,7 @@ Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me im
 
 Atualmente busco uma oportunidade para atuar como Desenvolvedor Júnior.
 
-Conceitos Front-end que utilizo diariamente:
+Conceitos de desenvolvimento que utilizo diariamente:
 
 - Design Responsivo
 - Experiência do Usuário (UX)
@@ -17,7 +17,7 @@ Conceitos Front-end que utilizo diariamente:
 - Controle de versão
 - SEO
 
-Tecnologias Front-end que sempre utilizo em meus projetos:
+Tecnologias que sempre utilizo em meus projetos:
 
 - HTML
 - CSS
@@ -26,7 +26,6 @@ Tecnologias Front-end que sempre utilizo em meus projetos:
 - GSAP
 - SASS/LESS/CSS-in-JS
 - Tailwind
-- Figma
 
 Todos os meus projetos estão disponíveis em [https://luanramos.com.br](https://luanramos.com.br)
 
