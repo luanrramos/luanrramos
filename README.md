@@ -24,8 +24,9 @@ Tecnologias que sempre utilizo em meus projetos:
 - JavaScript/TypeScript
 - React (contextAPI, router, components, hooks)
 - GSAP
-- SASS/LESS/CSS-in-JS
+- SASS/LESS/Styled Components
 - Tailwind
+- Node
 
 Todos os meus projetos estão disponíveis em [https://luanramos.com.br](https://luanramos.com.br)
 
