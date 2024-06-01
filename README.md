@@ -20,9 +20,9 @@ Conceitos de desenvolvimento que utilizo diariamente:
 Tecnologias que sempre utilizo em meus projetos:
 
 - Next JS
-- Controle de versionamento com Git
 - JavaScript/TypeScript
 - React (contextAPI, router, components, hooks)
+- Controle de versionamento com Git
 - GSAP
 - SASS/LESS/Styled Components
 - Tailwind
