@@ -21,7 +21,8 @@ Tecnologias que sempre utilizo em meus projetos:
 
 - Next JS
 - JavaScript/TypeScript
-- React (contextAPI, router, components, hooks)
+- React (contextAPI, router, testing library)
+- Jest
 - Git/Github/Gitflow
 - GSAP
 - SASS/LESS/Styled Components
