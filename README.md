@@ -1,7 +1,6 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Luan%20Ramos&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%20%20&descAlignY=50' />
 
-Olá, me chamo Luan Ramos, um desenvolvedor de software criativo com 2 anos de aprendizado e experiência sólida em empresas e trabalhos freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, perfomance otimizada e usabilidade excepcional de aplicações web em larga escala.
-
+Olá, me chamo Luan Ramos, sou um desenvolvedor de software criativo com 2 anos de aprendizado e experiência sólida em trabalhos voluntários e freelance especializado na tecnologia ReactJS. Eu priorizo um código limpo, performance otimizada e usabilidade excepcional de aplicações web em pequena e larga escala.
 
 Meu entusiasmo pela tecnologia e o compromisso com o aprendizado contínuo me impulsionam a entregar soluções inovadoras que superam as expectativas do cliente. Estou ansioso para colaborar com outros profissionais e assumir projetos desafiadores que vão além dos limites da tecnologia.
 
@@ -30,4 +29,4 @@ Tecnologias que sempre utilizo em meus projetos:
 
 Todos os meus projetos estão disponíveis em [https://luanramos.com.br](https://luanramos.com.br)
 
-Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](tel:83982178199) (83) 98217-8199 
+Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](83982178199) (83) 98217-8199 
