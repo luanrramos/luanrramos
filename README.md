@@ -30,4 +30,4 @@ Tecnologias que sempre utilizo em meus projetos:
 
 Todos os meus projetos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
-Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](83982178199) (83) 98217-8199 
+Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](https://wa.me/5583982178199) (83) 98217-8199 
