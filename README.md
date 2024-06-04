@@ -28,6 +28,6 @@ Tecnologias que sempre utilizo em meus projetos:
 - Tailwind
 - Node
 
-Todos os meus projetos estão disponíveis em [https://luanramos.com.br](https://www.luanramos.com.br)
+Todos os meus projetos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
 Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](83982178199) (83) 98217-8199 
