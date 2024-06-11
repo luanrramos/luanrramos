@@ -6,6 +6,7 @@ Com 2 anos de experiência na área, contribui para projetos super bacanas como 
 
 Atualmente busco uma oportunidade para atuar como Desenvolvedor Júnior.
 
+
 Conceitos de desenvolvimento que utilizo diariamente:
 
 - Design Responsivo
