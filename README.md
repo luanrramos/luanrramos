@@ -14,18 +14,7 @@ Conceitos de desenvolvimento que utilizo diariamente:
 - Performance
 - Controle de versão
 - SEO
-
-Tecnologias que sempre utilizo em meus projetos:
-
-- Next JS
-- JavaScript/TypeScript
-- React (contextAPI, router, testing library)
-- Jest
-- Git/Github/Gitflow
-- GSAP
-- SASS/LESS/Styled Components
-- Tailwind
-- Node
+- Clean Code
 
 Todos os meus projetos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
