@@ -6,7 +6,7 @@ Com 2 anos de experiência na área, contribui para projetos super bacanas como 
 
 Atualmente busco uma oportunidade para atuar como Desenvolvedor Júnior.
 
-Conceitos de desenvolvimento que utilizo diariamente:
+Conceitos de desenvolvimento que tenho interesse:
 
 - Design Responsivo
 - Experiência do Usuário (UX)
@@ -14,6 +14,8 @@ Conceitos de desenvolvimento que utilizo diariamente:
 - Performance
 - Controle de versão
 - SEO
+- Design Patterns
+- S.O.L.I.D.
 - Clean Code
 
 Todos os meus projetos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
