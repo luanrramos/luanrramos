@@ -4,6 +4,6 @@ Olá! Eu sou o Luan Ramos, um desenvolvedor de software com um interesse especia
 
 Com 2 anos na área, contribui para projetos super bacanas como voluntário e freelancer. Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
-Todos os meus projetos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
+Todos os meus trabalhos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
 Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](https://wa.me/5583982178199) (83) 98217-8199 
