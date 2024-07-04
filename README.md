@@ -2,21 +2,7 @@
 
 Olá! Eu sou o Luan Ramos, um desenvolvedor de software com um interesse especial em desenvolvimento web. Neste espaço, você encontrará alguns projetos bacanas e contribuições que fiz para a comunidade open source.
 
-Com 2 anos de experiência na área, contribui para projetos super bacanas como voluntário e freelancer. Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
-
-Atualmente busco uma oportunidade para atuar como Desenvolvedor Júnior.
-
-Conceitos de desenvolvimento que tenho interesse:
-
-- Design Responsivo
-- Experiência do Usuário (UX)
-- Acessibilidade
-- Performance
-- Controle de versão
-- SEO
-- Design Patterns
-- S.O.L.I.D.
-- Clean Code
+Com 2 anos na área, contribui para projetos super bacanas como voluntário e freelancer. Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
 Todos os meus projetos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
