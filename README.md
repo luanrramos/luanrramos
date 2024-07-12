@@ -2,7 +2,7 @@
 
 Olá! Eu sou o Luan Ramos, um desenvolvedor de software com um interesse especial em desenvolvimento web. Neste espaço, você encontrará alguns projetos bacanas e contribuições que fiz para a comunidade open source.
 
-Com 2 anos na área, contribui para projetos super bacanas como voluntário e freelancer. Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
+Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 
 Todos os meus trabalhos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
