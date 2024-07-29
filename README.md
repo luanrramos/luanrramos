@@ -3,7 +3,7 @@
 
 Olá! Eu sou o Luan Ramos, um estudante de desenvolvimento de software com um interesse especial em desenvolvimento web. Neste espaço, você encontrará alguns projetos bacanas e contribuições que fiz como freelancer e voluntário.
 
-Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
+Estou constantemente aprendendo e explorando novas tecnologias no ecossitema JAVASCRIPT para aprimorar minhas habilidades.
 
 Todos os meus trabalhos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
