@@ -7,4 +7,4 @@ Estou constantemente aprendendo e explorando novas tecnologias no ecossitema JAV
 
 Todos os meus trabalhos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
-Você pode me enviar um email luanramos.dev@gmail.com ou me chamar no [Whatsapp](https://wa.me/5583982178199) (83) 98217-8199 
+Você pode me enviar um email em luanramos.dev@gmail.com
