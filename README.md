@@ -1,10 +1,9 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Luan%20Ramos&fontSize=70&fontAlignY=35&desc=Software%20Developer%20%20%20&descAlignY=50' />
 
+Hey! I am Luan Ramos, an intern software developer with a special harmony with web development. Here in this space you will find some cool projects and contributtions that I have made as a freelancer and volunteer dev.
 
-Olá! Eu sou o Luan Ramos, um estudante de desenvolvimento de software com um interesse especial em desenvolvimento web. Neste espaço, você encontrará alguns projetos bacanas e contribuições que fiz como freelancer e voluntário.
+I am constantly learning and exploring new techs in all Javascript/Typescript ecossystem to improve my hard skills.
 
-Estou constantemente aprendendo e explorando novas tecnologias no ecossitema JAVASCRIPT para aprimorar minhas habilidades.
+All my freelancer works are available at [https://www.luanramos.com.br](https://www.luanramos.com.br)
 
-Todos os meus trabalhos estão disponíveis em [https://www.luanramos.com.br](https://www.luanramos.com.br)
-
-Você pode me enviar um email em luanramos.dev@gmail.com
+You can send me a message on luanramos.dev@gmail.com or reach me at [Linkedin](https://www.linkedin.com/in/luanrramos/).
